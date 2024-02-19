@@ -1,0 +1,9 @@
+io\mark\springbootstarter\topic\Topic.class
+io\mark\springbootstarter\course\Course.class
+io\mark\springbootstarter\topic\TopicController.class
+io\mark\springbootstarter\course\CourseController.class
+io\mark\springbootstarter\topic\TopicService.class
+io\mark\CourseApiDataApplication.class
+io\mark\springbootstarter\course\CourseService.class
+io\mark\springbootstarter\topic\TopicRepository.class
+io\mark\springbootstarter\course\CourseRepository.class
